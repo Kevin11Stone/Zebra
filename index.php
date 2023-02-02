@@ -11,8 +11,5 @@
 <P>so where are you</P>
 <P>Commit here</P>
 <p>Another commit here</p>
-
-<h1>Gobblygook</h1>
 </body>
 </html>
-
